@@ -11,4 +11,5 @@
 public class NewClass {
     //commentaire est ce que ça marche?
     // oui ça fonctionne trop bien !!!!!
+    //c'est clair mgl !!!!!!!!!!!
 }
